@@ -1,1 +1,4 @@
 test fichier random
+Je rajoute des lignes que je pourrai modifier après. Pour voir comment marchent les conflits et tout.
+ça va péter
+
